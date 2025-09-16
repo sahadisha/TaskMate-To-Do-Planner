@@ -1,6 +1,6 @@
 # 📝 TaskMate – Daily To-Do App
 
-TaskMate is a lightweight **daily task management app** built with **HTML, CSS, JavaScript, and jQuery**.  
+TaskMate is a lightweight **daily task management app** built with **HTML, CSS, JavaScript**.  
 It allows users to select a date, add tasks, mark them as done, and delete them — all while persisting data locally in the browser using **Local Storage**.
 
 ---
@@ -16,7 +16,7 @@ It allows users to select a date, add tasks, mark them as done, and delete them 
 
 ## 🖥️ Tech Stack
 - **Frontend:** HTML, CSS (Flexbox & custom styles)
-- **JavaScript:** Vanilla JS + jQuery
+- **JavaScript:** Vanilla JS 
 - **Storage:** Browser Local Storage
 
 ---
